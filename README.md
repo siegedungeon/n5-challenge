@@ -2,7 +2,7 @@
 Project in Docker to manage permissions for users, and assign one for each user, 
 Exist 3 types of request
 
-GET  ---  obtein all permissions in DB
+GET  ---  obtain all permissions from DB
 
 PUT --    modify one permission per request
 
